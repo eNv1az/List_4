@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}   
+
+#gradl{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-image: linear-gradient(to right, rgb(118, 118, 118), white, white, white);
+    height: 265px;
+    width: 500px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-radius: 40px 0 40px 0;
+    background-position: left bottom;
+}
+
+
+ul.a{
+    list-style-type: square;
+    margin-left: 10px;
+    font-style: italic;
+}
+ul.b{
+    list-style-type: upper-alpha;
+    margin-left: 11px;
+    font-style: italic;
+    
+}
+ul.c{
+    margin-left: 10px;
+    font-style: italic;
+}
+ol{
+    margin-top: -2px;
+    list-style-type: upper-roman;
+}
+
+li{
+    padding-left: 15px;
+   
+}
+p.a{
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+table{
+    margin-bottom: 0px;
+}
+
+#inbox{
+    padding-left: 20px;
+}
+
